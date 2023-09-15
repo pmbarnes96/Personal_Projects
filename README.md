@@ -1,2 +1,2 @@
-# Personal_Projects
+# Personal Projects
 This public repository showcases some of the coding and machine learning projects I have completed.
