@@ -4,6 +4,7 @@ The GAN [1] is trained on a set of 2872 images downloaded from [2].  The architu
 
 Visual inspection of the generated gallery of images reveals a diverse distribution of abstract pictures, demonstrating a lack of mode collapse.  None of the generated images look anywhere near identical to any images in the training set, demonstrating that the GAN is not overfitting.
 
+Bibliography:
 [1] https://arxiv.org/abs/1406.2661
 [2] https://www.kaggle.com/datasets/bryanb/abstract-art-gallery
 [3] https://arxiv.org/abs/1511.06434
