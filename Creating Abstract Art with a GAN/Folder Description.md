@@ -1,1 +1,1 @@
-The files in this folder train and use a GAN to create abstract art.
+This folder is for abstract art I created with a GAN.  The folder titled "Generated_gallery" contains 100 randomly sampled images created by the generator.  The file titled "Training Deep Convolutional Wasserstein GAN on GPU.py" contains the code used to train this GAN.
