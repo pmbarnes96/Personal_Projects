@@ -9,4 +9,4 @@ Bibliography:
 [2] https://www.kaggle.com/datasets/bryanb/abstract-art-gallery  
 [3] https://arxiv.org/abs/1511.06434  
 [4] https://arxiv.org/abs/1701.07875  
-[5] https://arxiv.org/abs/1704.00028  
+[5] https://arxiv.org/abs/1704.00028
