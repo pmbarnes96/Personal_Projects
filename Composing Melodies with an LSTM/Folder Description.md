@@ -1,3 +1,5 @@
+# Composing Melodies with an LSTM
+
 This folder is for simple melodies I composed with a model based on an LSTM.  The folder titled "Example Melodies" contains the sheet music for three melodies composed by my program as well as videos of me playing them on my cello.  The file titled "Music Training Generation and Composing.py" contains the code used to train the model and compose by sampling notes from the probability function fit by the model.
 
 The model is trained on a number of basic melodies, especially holiday, folk, and simple classical tunes.  I wrote these tunes out by hand from memory or by looking through a book of pieces I practiced while learning the cello.
